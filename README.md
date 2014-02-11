@@ -18,7 +18,8 @@ Node [VERSION]
 Frontend
 --------
 
-- Ember.js
-- Handlebars.js
-- minified.js (like jQuery, with some junk ripped out)
+- [Ember.js](http://emberjs.com/) Thick-client MVC with lotsa sugar
+- [Handlebars.js](http://handlebarsjs.com/) View Templates
+- [minified.js](like jQuery, with some junk ripped out) Utility library similar to jQuery, custom build
+- [Pure CSS](http://www.purecss.io) Ultra-light, modular CSS boilerplate
 
